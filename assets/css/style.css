@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #067ded;
+  color: #bb0505;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #0678e3;
+  background: #bb0505;
   color: #fff;
 }
 .back-to-top.active {
@@ -623,7 +623,7 @@ section {
   transition: 0.3s;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #bb0505;
 }
 .portfolio .portfolio-wrap:hover::before {
   top: 0;
@@ -1039,7 +1039,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #6e0000;
   color: #fff;
   text-decoration: none;
 }
