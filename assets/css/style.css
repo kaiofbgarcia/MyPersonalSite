@@ -441,7 +441,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 80px;
   display: block;
   background: none;
   border-radius: 0;
@@ -454,19 +454,18 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #45505b;
+  text-align: center;
 }
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
 }
-.skills .progress-bar-wrap {
-  background: #f2f3f5;
-}
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #bb0505;
+
+.skills .skill-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
 }
 
 /*--------------------------------------------------------------
